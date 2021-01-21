@@ -1,0 +1,12 @@
+.background {
+    background-color: #000000;
+}
+.description h1{
+    color: rgb(252, 252, 252);
+}
+.snakeNode {
+    background-color: antiquewhite;
+}
+.food {
+    background-color: aquamarine;
+}

@@ -1,0 +1,32 @@
+.background {
+    width: 700px;
+    height: 700px;
+}
+.description {
+    height: 50px;
+    text-align: center;
+    padding-top: 20px;
+}
+.description h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+}
+.gameSpace {
+    margin: auto;
+    border: solid white;
+    width: 600px;
+    height: 600px;
+}
+.snakeNode {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    /* display: inline; */
+    float: both;
+    border: solid thin black;
+}
+.food {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+}
